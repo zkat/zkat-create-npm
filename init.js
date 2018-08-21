@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 'use strict'
-const initIt = require('@iarna/create')
+const initIt = require('@zkat/create')
 
-initIt(process.cwd(), `${__dirname}/node_modules/@iarna/create/template`, {
+initIt(process.cwd(), `${__dirname}/node_modules/@zkat/create/template`, {
   github: 'npm',
   copyright: 'npm, Inc',
   namespaces: ['npmcorp', 'npm']

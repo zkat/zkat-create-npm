@@ -1,7 +1,7 @@
 {
-  "name": "@iarna/create-npm",
+  "name": "@zkat/create-npm",
   "version": "1.1.0",
-  "description": "Init the current project using @iarna's npm defaults.",
+  "description": "Init the current project using @zkat's npm defaults.",
   "author": {
     "name": "Rebecca Turner",
     "email": "me@re-becca.org",
@@ -27,15 +27,15 @@
     "init.js"
   ],
   "bundleDependencies": [
-    "@iarna/create"
+    "@zkat/create"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/iarna/iarna-create-npm.git"
+    "url": "https://github.com/zkat/zkat-create-npm.git"
   },
-  "bugs": "https://github.com/iarna/iarna-create-npm/issues",
-  "homepage": "https://npmjs.com/package/iarna-create-npm",
+  "bugs": "https://github.com/zkat/zkat-create-npm/issues",
+  "homepage": "https://npmjs.com/package/zkat-create-npm",
   "dependencies": {
-    "@iarna/create": "^1.1.2"
+    "@zkat/create": "^2.0.0"
   }
 }
