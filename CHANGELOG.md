@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/zkat/zkat-create-npm/compare/v1.1.0...v2.0.0) (2018-08-23)
+
+
+### Features
+
+* **zkat:** convert project to zkat mode ([6442fda](https://github.com/zkat/zkat-create-npm/commit/6442fda))
+
+
+### BREAKING CHANGES
+
+* **zkat:** it is for kat now
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/iarna/iarna-create-npm/compare/v1.0.1...v1.1.0) (2018-06-22)
 
